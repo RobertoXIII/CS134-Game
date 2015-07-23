@@ -21,13 +21,13 @@ CS134 Game.vcxproj.filters
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-CS134 Game.cpp
+CS134 Game.c
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
-StdAfx.h, StdAfx.cpp
+StdAfx.h, StdAfx.c
     These files are used to build a precompiled header (PCH) file
     named CS134 Game.pch and a precompiled types file named StdAfx.obj.
 
