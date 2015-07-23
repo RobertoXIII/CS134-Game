@@ -1,0 +1,158 @@
+﻿Build started 7/13/2015 2:00:56 PM.
+     1>Project "C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\CS134 Game\CS134 Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CS134 Game.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "CS134 Game.c"
+         CS134 Game.c
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(304): warning C4090: 'initializing' : different 'const' qualifiers
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(315): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(316): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(317): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(318): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(330): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(331): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(332): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(333): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(344): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(345): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(346): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(356): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(357): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(358): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(380): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(381): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(389): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(390): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(403): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(404): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(413): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(428): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(429): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(430): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(431): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(432): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(433): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(434): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(435): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(454): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(455): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(456): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(457): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(471): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(472): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(473): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(546): warning C4047: '==' : 'int' differs in levels of indirection from 'void *'
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(595): warning C4013: 'glTexImageTGAFile' undefined; assuming extern returning int
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(702): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(703): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(707): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(708): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(711): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(712): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(715): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(716): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(719): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(720): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(737): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(738): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(742): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(743): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(763): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(764): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(768): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(769): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(822): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(825): warning C4090: '=' : different 'const' qualifiers
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(834): warning C4013: 'glDrawSprite' undefined; assuming extern returning int
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(941): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(971): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1032): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1085): warning C4013: 'AABBintersect' undefined; assuming extern returning int
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1124): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1128): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1129): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1133): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1134): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1138): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1139): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1149): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1161): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1167): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1171): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1186): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1192): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1197): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1211): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1256): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1290): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1291): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1320): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1321): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1470): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1474): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1475): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1485): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1497): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1503): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1507): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1522): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1528): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1533): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1547): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1556): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1612): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1613): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1642): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1643): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1792): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1796): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1797): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1799): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1800): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1801): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1802): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1804): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1805): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1806): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1807): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1816): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1828): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1834): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1838): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1853): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1859): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1864): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1878): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(1887): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2002): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2003): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2032): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2033): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2182): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2187): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2189): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2217): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2223): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2227): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2242): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2248): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2253): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2267): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2323): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2478): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2479): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2529): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2537): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2562): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rob\documents\visual studio 2013\projects\cs134 game\cs134 game\cs134 game.c(2570): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\Debug\CS134 Game.exe" /INCREMENTAL /NOLOGO SDL2.lib opengl32.lib glu32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\Debug\CS134 Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\Debug\CS134 Game.lib" /MACHINE:X86 "Debug\CS134 Game.obj"
+         Debug\DrawUtils.obj
+         Debug\stdafx.obj
+         CS134 Game.vcxproj -> C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\Debug\CS134 Game.exe
+     1>Done Building Project "C:\Users\ROB\documents\visual studio 2013\Projects\CS134 Game\CS134 Game\CS134 Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54
